@@ -1,0 +1,33 @@
+class MyIcons {
+  static const String home = '\u{f015}';
+  static const String grid2 = '\u{e196}';
+  static const String magnifyingGlass = '\u{f002}';
+  static const String plus = '\u{2b}';
+  static const String user = '\u{f007}';
+  static const String shareNodes = '\u{f1e0}';
+  static const String circleEllipsisVertical = '\u{e10b}';
+  static const String heart = '\u{f004}';
+  static const String anglesDown = '\u{f103}';
+  static const String comment = '\u{f075}';
+  static const String userPlus = '\u{f234}';
+  static const String chevronLeft = '\u{f053}';
+  static const String angleRight = '\u{f105}';
+  static const String angleDown = '\u{f107}';
+  static const String circleCheck = '\u{f058}';
+  static const String xmark = '\u{f00d}';
+  static const String gear = '\u{f013}';
+  static const String envelopeCircleCheck = '\u{e4e8}';
+  static const String leftLong = '\u{f30a}';
+  static const String arrowRotateRight = '\u{f01e}';
+  static const String eyeOpen = '\u{f06e}';
+  static const String eyeSlash = '\u{f070}';
+  static const String rotateRight = '\u{f2f9}';
+  static const String key = '\u{f084}';
+  static const String users = '\u{f0c0}';
+  static const String rightFromBracket = '\u{f2f5}';
+  static const String trash = '\u{f1f8}';
+  static const String handshakeAngle = '\u{f4c4}';
+  static const String flag = '\u{f024}';
+  static const String shieldHalved = '\u{f3ed}';
+  static const String rightLong = '\u{f30b}';
+}
