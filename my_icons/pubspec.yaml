@@ -1,6 +1,6 @@
 name: my_icons
 description: "Personal package with my FontAwesome unicode strings."
-version: 1.0.0
+version: 1.2.0
 publish_to: "none"
 
 environment:

@@ -30,4 +30,7 @@ class MyIcons {
   static const String flag = '\u{f024}';
   static const String shieldHalved = '\u{f3ed}';
   static const String rightLong = '\u{f30b}';
+  static const String circleExclamation = '\u{f06a}';
+  static const String download = '\u{f019}';
+  static const String bookmark = '\u{f02e}';
 }
